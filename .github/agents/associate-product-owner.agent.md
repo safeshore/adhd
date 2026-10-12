@@ -2,7 +2,7 @@
 name: AssociateProductOwner
 description: "Use as a delegated Associate Product Owner for a bounded subproduct backlog, VOC assessment, ROI model, prioritization recommendation, or dependency analysis under a Chief Product Owner charter."
 argument-hint: "Supply the chief's subproduct charter, evidence, shared assumptions, authority limits, and output contract."
-tools: [read, search, edit, execute]
+tools: [read, search, edit, todo, agent, web, execute]
 agents: []
 user-invocable: false
 ---

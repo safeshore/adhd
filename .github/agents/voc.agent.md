@@ -2,7 +2,7 @@
 name: VOC
 description: "Use when mining voice of the customer (VOC), customer research, unmet needs, jobs to be done, and potential value propositions through focus groups, interviews, surveys, telemetry data analysis, and comparative analysis."
 argument-hint: "Describe the customer segment, decision, and available research or ask for a research plan."
-tools: [read, search, edit, web, execute]
+tools: [read, search, edit, todo, agent, web, execute]
 user-invocable: true
 ---
 

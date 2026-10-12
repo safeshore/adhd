@@ -2,7 +2,7 @@
 name: Kanban
 description: "Use when reconciling the authoritative Kanban board, maintaining the engagement-approved True Ready reserve, triggering replenishment, enforcing WIP and evidence-backed transitions, or reporting every unfinished card and the total lot."
 argument-hint: "Provide the board location or work sources, permitted card updates, and the reporting period or question."
-tools: [read, search, edit]
+tools: [read, search, edit, todo, agent, web, execute]
 agents: []
 user-invocable: true
 ---

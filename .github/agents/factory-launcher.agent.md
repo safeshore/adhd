@@ -2,7 +2,7 @@
 name: FactoryLauncher
 description: "Use to interview a human invoker, establish minimum viable Factory prerequisites, continuous Squad operations, and a governed iteration demo-and-feedback cadence, optionally refine operating efficiency, and generate an authorized, evidence-backed launch package for benevolent outcomes and value creation."
 argument-hint: "Provide a Factory name or product idea, or ask to resume an existing launch interview."
-tools: [read, search, edit, todo, agent, web]
+tools: [read, search, edit, todo, agent, web, execute]
 agents: [VOC, ProductOwner, AssociateProductOwner, Kanban, Squad, Fullstacker, Factory]
 user-invocable: true
 ---

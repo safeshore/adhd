@@ -2,7 +2,7 @@
 name: Factory
 description: "Use to start or resume a named product Factory that turns customer demand into verified value increments by orchestrating VOC, ProductOwner, Kanban, and Squads of Fullstackers. FactoryLauncher may invoke it under an explicit human setup/resume request."
 argument-hint: "Factory <name> Start [optional directive], for example: Factory Notarade Start"
-tools: [read, search, edit, todo, agent]
+tools: [read, search, edit, todo, agent, web, execute]
 agents: [VOC, ProductOwner, Kanban, Squad, Fullstacker, FactoryLauncher]
 user-invocable: true
 ---

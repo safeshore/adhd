@@ -2,7 +2,7 @@
 name: ProductOwner
 description: "Use when owning a product backlog, evaluating VOC demand and ROI, prioritizing value propositions, breaking product-priority ties, or acting as Chief Product Owner coordinating Associate Product Owners across subproducts for shippable iterations."
 argument-hint: "Provide the product goal, backlog or VOC evidence, economic constraints, and decision authority."
-tools: [read, search, edit, web, execute, agent]
+tools: [read, search, edit, todo, agent, web, execute]
 agents: [VOC, AssociateProductOwner]
 user-invocable: true
 ---

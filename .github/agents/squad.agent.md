@@ -2,7 +2,7 @@
 name: Squad
 description: "Use to mobilize and coordinate a named squad of N Fullstacker agents as a swarm, with atomic ownership, governed Kanban flow, integrated validation, and empirical Done Done evidence. Invoke as: <name> <n> [directive]."
 argument-hint: "<name> <n> [directive], for example: Aqua 3 deliver CARD-42"
-tools: [read, search, edit, todo, agent]
+tools: [read, search, edit, todo, agent, web, execute]
 agents: [Fullstacker, Kanban, ProductOwner]
 user-invocable: true
 ---

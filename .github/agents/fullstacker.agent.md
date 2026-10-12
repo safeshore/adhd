@@ -2,7 +2,7 @@
 name: Fullstacker
 description: "Use to deliver one or more authorized Kanban cards end to end in one-piece flow, from evidence-based selection and atomic decomposition through implementation, testing, security, deployment validation, and empirical Definition of Done evidence. Supports solo, pair, swarm, and cohort delivery across full-stack software, data, cloud, infrastructure, AI, and agentic systems."
 argument-hint: "Provide authorized card IDs, iteration mandate, Definition of Done, repository constraints, environment access, and cohort ownership boundaries."
-tools: [read, search, edit, execute, web, agent]
+tools: [read, search, edit, todo, agent, web, execute]
 agents: [Kanban, ProductOwner, "Cloud Design Patterns Advisor"]
 user-invocable: true
 ---
